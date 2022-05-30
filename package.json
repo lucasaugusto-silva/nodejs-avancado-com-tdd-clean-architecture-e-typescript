@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-avancado-com-tdd-clean-architecture-e-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaugusto-silva/nodejs-avancado-com-tdd-clean-architecture-e-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasaugusto-silva/nodejs-avancado-com-tdd-clean-architecture-e-typescript/issues"
+  },
+  "homepage": "https://github.com/lucasaugusto-silva/nodejs-avancado-com-tdd-clean-architecture-e-typescript#readme"
+}
